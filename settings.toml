@@ -1,0 +1,9 @@
+[[items]]
+app_name = "Zsh"
+file_name = ".zshrc"
+symlink_path = "$HOME"
+
+[[items]]
+app_name = "Starship"
+file_name = "starship.toml"
+symlink_path = "$HOME/.config"
